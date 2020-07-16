@@ -16,4 +16,5 @@ def find_max_value(array)
     count += 1 
     max += 1 
   end 
+  found
 end
